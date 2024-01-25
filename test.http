@@ -1,0 +1,3 @@
+
+GET http://localhost:8080/api/products/2
+content-type: application/json
